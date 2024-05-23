@@ -7,7 +7,7 @@ Designer, Web Developer & Ux Entusiast
 > - Estudando **Java** pela *DIO* e **Ciência da Computação** pela **Estacio** 
 > - **Designer** cristão (veja meus projetos no Pinterest)
 > - **Criativo**, proativo e focado em aprender e compartilhar experiencias! 
-> - Tenho interesse em me conectar com estudades e profissionais que carreguem o desejo de aprender e ensinar
+> - Tenho interesse em me conectar com estudantes e profissionais que carreguem o desejo de aprender e ensinar
 
 ## Estudando agora
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
