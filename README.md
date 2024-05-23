@@ -1,4 +1,4 @@
-<style>
+/*<style>
     button{
         background-color: #30A3DC;
         border: 1px solid #30A3DC;
@@ -16,7 +16,7 @@
     h2{
         color: #30A3DC;
     }
-</style>
+</style>*/
 
 # Prazer, Filipe Dhunior!
 <button>Designer</button>
