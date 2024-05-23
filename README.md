@@ -1,22 +1,4 @@
-/*<style>
-    button{
-        background-color: #30A3DC;
-        border: 1px solid #30A3DC;
-        color: white ;
-        padding: 5px;
-        border-radius: 1px;
-    }
-    !{
-        border: 2px solid white;
-    }
-    blockquote {
-        border-color: #30A3DC;
-        background-color: transparent;
-    }
-    h2{
-        color: #30A3DC;
-    }
-</style>*/
+
 
 # Prazer, Filipe Dhunior!
 <button>Designer</button>
