@@ -1,9 +1,7 @@
 
 
 # Prazer, Filipe Dhunior!
-<button>Designer</button>
-<button>Web Developer</button>
-<button>Ux Entusiast</button>
+Designer, Web Developer & Ux Entusiast 
 
 ## Sobre
 > - Estudando **Java** pela *DIO* e **Ciência da Computação** pela **Estacio** 
@@ -26,4 +24,5 @@ Clickando nos links abaixo você pode me conhecer, saber oque estou estudando e 
 [![Pinterest](https://img.shields.io/badge/-pinterest-black?style=for-the-badge&logo=pinterest&logoColor=white&labelColor=red&color=red)](https://www.pinterest.com/designer.filipedhunior)
 
 ## GitHub
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=filipedhunior&bg_color=000&border_color=30A3DC&title_color=30A3DC&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=filipedhunior&bg_color=000&border_color=30A4DC&title_color=30A3DC&text_color=FFF)
+
