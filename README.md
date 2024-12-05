@@ -1,10 +1,10 @@
 
 
 # Prazer, Filipe Dhunior!
-Designer, Web Developer & Ux Entusiast 
+Designer, Backend Developer
 
 ## Sobre
-> - Estudando **Java** pela *DIO* e **Ciência da Computação** pela **Estacio** 
+> - Bacharel em Ciencia da Computação pela Faculdade Estacio! 
 > - **Designer** cristão (veja meus projetos no Pinterest)
 > - **Criativo**, proativo e focado em aprender e compartilhar experiencias! 
 > - Tenho interesse em me conectar com estudantes e profissionais que carreguem o desejo de aprender e ensinar
@@ -24,5 +24,5 @@ Clickando nos links abaixo você pode me conhecer, saber oque estou estudando e 
 [![Pinterest](https://img.shields.io/badge/-pinterest-black?style=for-the-badge&logo=pinterest&logoColor=white&labelColor=red&color=red)](https://www.pinterest.com/designer.filipedhunior)
 
 ## GitHub
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=filipedhunior&bg_color=000&border_color=30A4DC&title_color=30A3DC&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=filoroch&bg_color=000&border_color=30A4DC&title_color=30A3DC&text_color=FFF)
 
