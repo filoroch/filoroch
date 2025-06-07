@@ -3,10 +3,6 @@
 # Prazer, Filipe Dhunior!
 Designer, Backend Developer
 
-```katex
-m = 2 + 2
-```
-
 ## Sobre
 > - Bacharel em Ciencia da Computação pela Faculdade Estacio! 
 > - **Designer** cristão (veja meus projetos no Pinterest)
