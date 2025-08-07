@@ -3,7 +3,7 @@
 <p align="center"> Designer, Backend Developer </p>
 
 
-![Snake animation](https://github.com/filoroch/filoroch/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/filoroch/filoroch/blob/output/github-contribution-grid-snake.gif)
 
 ## Sobre
 Bacharel em Ciencia da Computação pela Estacio de Sá. Analista de Sistemas Jr pela Findes com experiencia no ERP TOTVS. Sou um profissional proativo focado em resolver problemas entendendo as necessidades de seus usuarios e mapeando as soluçoes em software facil e reusavel
@@ -27,5 +27,6 @@ Clickando nos links abaixo você pode me conhecer, saber oque estou estudando e 
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filoroch&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=filoroch&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
 
 
