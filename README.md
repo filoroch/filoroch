@@ -1,6 +1,8 @@
+<div align="center">
+          <h1> Prazer, Filipe Dhunior </h1>
+          <p> Designer, Backend Developer </p>
+</div>
 
-<h1 align="center"> Prazer, Filipe Dhunior </h1>
-<p align="center"> Designer, Backend Developer </p>
 
 ## Sobre
 Bacharel em Ciencia da Computação pela Estacio de Sá. Analista de Sistemas Jr pela Findes com experiencia no ERP TOTVS. Sou um profissional proativo focado em resolver problemas entendendo as necessidades de seus usuarios e mapeando as soluçoes em software facil e reusavel
@@ -8,7 +10,9 @@ Bacharel em Ciencia da Computação pela Estacio de Sá. Analista de Sistemas Jr
 ## Tecnologias
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
 
-          
+## Projetos relevantes          
+- [Ministerio Atos API](https://github.com/filoroch/ministerioatos-calendarAPI)
+
 ## Me conheça!
 Clickando nos links abaixo você pode me conhecer, saber oque estou estudando e descobrir meus atuais projetos! <br>
 
@@ -18,12 +22,7 @@ Clickando nos links abaixo você pode me conhecer, saber oque estou estudando e 
 [![Threads](https://img.shields.io/badge/-Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@filipedhunior)
 
 
-## Stats
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filoroch&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=filoroch&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
 
 
 
